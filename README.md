@@ -18,3 +18,8 @@ chmod +x hns.sh
 ```bash
 sudo ./hns.sh
 ```
+
+
+## License
+
+No license, no limits. Free to use, abuse and improve this code however you see fit.
