@@ -114,7 +114,8 @@ chmod +x hns.sh
 ```bash
 sudo ./hns.sh
 ```
-
+# Step 4: Execute the script
+Choose your HNS nameserver or enter custom nameservers
 
 ## License
 
