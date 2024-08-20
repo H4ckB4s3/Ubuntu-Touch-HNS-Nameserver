@@ -1,4 +1,4 @@
-# Ubuntu-Touch-HNS-Resolver
+# Ubuntu-Touch-HNS-Nameserver
 Select a HNS resolver and change the /etc/resolv.conf file on Ubuntu Touch Devices.
 
 ## Installation
