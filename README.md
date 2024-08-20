@@ -1,5 +1,5 @@
 # Ubuntu-Touch-HNS-Nameserver
-Select a HNS resolver and change the /etc/resolv.conf file on Ubuntu Touch Devices.
+Select a HNS Nameserver and change the /etc/resolv.conf file on Ubuntu Touch Devices.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Follow these steps.
 nano hns.sh
 ```
 
-# Step 2: Make the script
+# Step 2: The script
 ```bash
 #!/bin/bash
 
