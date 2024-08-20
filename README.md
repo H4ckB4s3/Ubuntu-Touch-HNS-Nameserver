@@ -7,9 +7,9 @@ Follow these steps to clone the repository and set up the project.
 
 # Step 1: Clone the repository
 ```bash
-git clone https://github.com/H4ckB4s3/Ubuntu-Touch-HNS-Resolver.git
-cd Ubuntu-Touch-HNS-Resolver
+nano hns.sh
 ```
+Paste the hns.sh script, save and exit
 # Step 2: Make the hns.sh script executable
 ```bash
 chmod +x hns.sh
