@@ -3,9 +3,9 @@ Select a HNS resolver and change the /etc/resolv.conf file on Ubuntu Touch Devic
 
 ## Installation
 
-Follow these steps to clone the repository and set up the project.
+Follow these steps.
 
-# Step 1: Clone the repository
+# Step 1: Create the hns.sh file
 ```bash
 nano hns.sh
 ```
