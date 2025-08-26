@@ -117,6 +117,9 @@ sudo ./hns.sh
 # Step 5: Choose HNS Nameserver
 Choose your HNS nameserver or enter custom nameservers
 
+52.223.32.56
+78.129.239.27 
+
 ## License
 
 No license, no limits. Free to use, abuse and improve this code however you see fit.
